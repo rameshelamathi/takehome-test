@@ -3,13 +3,13 @@
 ## Overview
 
 This is a takehome test for candidates applying for a full-stack developer
-position at ShopPad. It contains two sections: "Backend" and "Frontend", which
+position at Cartrabbit. It contains two sections: "Backend" and "Frontend", which
 together include a series of tests involving HTML, CSS, JavaScript, and PHP.
  
 Feel free to solve these questions however you see fit, using whatever coding
 style or third-party libraries you think are appropriate.
 
-To start the test, simply clone this repo and make your edits locally.
+To start the test, simply download (clone) this repository and make your edits locally.
 
 ## Frontend
 
