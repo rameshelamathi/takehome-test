@@ -40,7 +40,7 @@ prefer and use third-party libraries at your own discretion.
 
 ### Shopify Store and API Information
 
-* **Shopify Dev Store URL:** https://shoppad-candidate.myshopify.com/collections/all
+* **Shopify Dev Store URL:** https://rabbit-test.myshopify.com/collections/all
 (password: "candidate")
 * **Shopify Admin API Documentation:** https://help.shopify.com/api/reference/product
 * **API Key:** (Provided Via Email)
